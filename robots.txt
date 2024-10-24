@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://rahesugo.github.io/sitemap/sitemap_index.rahesugo
+Sitemap: https://rahesugo.github.io/nHX/sitemap_index.rahesugo
+Sitemap: https://rahesugo.github.io/fXK/sitemap_index.rahesugo
+Sitemap: https://rahesugo.github.io/FVa/sitemap_index.rahesugo
+Sitemap: https://rahesugo.github.io/vpR/sitemap_index.rahesugo
+Sitemap: https://rahesugo.github.io/Hvo/sitemap_index.rahesugo
+Sitemap: https://rahesugo.github.io/mvL/sitemap_index.rahesugo
+Sitemap: https://rahesugo.github.io/Noa/sitemap_index.rahesugo
+Sitemap: https://rahesugo.github.io/CRE/sitemap_index.rahesugo
+Sitemap: https://rahesugo.github.io/aKo/sitemap_index.rahesugo
+Sitemap: https://rahesugo.github.io/pPg/sitemap_index.rahesugo
+Sitemap: https://rahesugo.github.io/Fot/sitemap_index.rahesugo
+Sitemap: https://rahesugo.github.io/MvL/sitemap_index.rahesugo
+Sitemap: https://rahesugo.github.io/TiI/sitemap_index.rahesugo
+Sitemap: https://rahesugo.github.io/Trf/sitemap_index.rahesugo
+Sitemap: https://rahesugo.github.io/hxB/sitemap_index.rahesugo
+Sitemap: https://rahesugo.github.io/IfW/sitemap_index.rahesugo
+Sitemap: https://rahesugo.github.io/bdy/sitemap_index.rahesugo
+Sitemap: https://rahesugo.github.io/gVY/sitemap_index.rahesugo
+Sitemap: https://rahesugo.github.io/Ixu/sitemap_index.rahesugo
+Sitemap: https://rahesugo.github.io/nvC/sitemap_index.rahesugo
